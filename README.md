@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=600&size=25&pause=1000&color=F7A5CF&background=081D52&center=true&vCenter=true&width=435&lines=Hi+visitors!+%F0%9F%92%96;I'm+Shu-Chun-Lin+%F0%9F%98%83" alt="Typing SVG" /></a>
+
 ### Hi there 👋
 
 <!--
