@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/bill123lin">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill123lin&count_private=true&layout=compact" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bill123lin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bill123lin&count_private=true)
