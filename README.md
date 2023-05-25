@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Github Analytics
 <a href="https://github.com/bill123lin">
   <img src="https://github-readme-stats.vercel.app/api?username=bill123lin&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bill123lin&count_private=true"/>
 </a>
 
 ### Most Used Languages
