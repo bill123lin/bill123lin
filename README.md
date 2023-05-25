@@ -6,8 +6,8 @@
 **bill123lin/bill123lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-🔭 I’m currently working on IT related stuff
-🌱 I’m currently learning python,arduino,php
+### 🔭 I’m currently working on IT related stuff
+### 🌱 I’m currently learning python,arduino,php
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
