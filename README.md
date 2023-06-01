@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### Github Analytics
 <a href="https://github.com/bill123lin">
-  <img src="https://github-readme-stats.vercel.app/api?username=bill123lin&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bill123lin&theme=vue-dark&count_private=true"/>
 </a>
 
 ### Most Used Languages
 <a href="https://github.com/bill123lin">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill123lin&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill123lin&theme=vue-dark&count_private=true" />
 </a>
