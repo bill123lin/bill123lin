@@ -3,7 +3,7 @@
 ### Hi there 👋 
 -🌱 正在學習 python,arduino,php  
 -⚡ 擅長語言 python,arduino  
--😄 聯絡信箱 billl123lin@gmail.com  
+-😄 聯絡信箱 bill123lin@gmail.com  
 
 
 
